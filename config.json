@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smscecrypt",
+        "uuid": 1949552,
+        "checksum": "8la5qm"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
